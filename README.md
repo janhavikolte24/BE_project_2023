@@ -13,3 +13,5 @@ To run the streamlit app :
 streamlit run app.py 
 
 Also make necessary installations using pip command in the same environment in case of Module Not Found. 
+
+The code is present in master branch of the repository.
